@@ -14,6 +14,7 @@
     <ProjectGuid>{66547A58-E2AE-4721-B95E-740C84A2EA2C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Vector</RootNamespace>
+    <ProjectName>Wektor</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
