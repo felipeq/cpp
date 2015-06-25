@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DCEAA9E2-D157-4AC2-B4C8-DDB26A6AD18C}</ProjectGuid>
+    <ProjectGuid>{43350212-E43F-4621-9046-99B10D17A66E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>RuleofThree</RootNamespace>
+    <RootNamespace>CopyandSwap</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -80,11 +80,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="person.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="person.cpp" />
-    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
