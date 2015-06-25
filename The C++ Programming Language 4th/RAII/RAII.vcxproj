@@ -80,6 +80,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Jamnik.cpp" />
+    <ClCompile Include="Lock.cpp" />
+    <ClCompile Include="MyFile.cpp" />
+    <ClCompile Include="OpenFile.cpp" />
+    <ClCompile Include="Pies.cpp" />
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Jamnik.h" />
+    <ClInclude Include="Lock.h" />
+    <ClInclude Include="MyFile.h" />
+    <ClInclude Include="OpenFile.h" />
+    <ClInclude Include="Pies.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
