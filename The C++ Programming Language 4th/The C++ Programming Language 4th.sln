@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Complex", "Complex\Complex.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rule of Three", "Rule of Three\Rule of Three.vcxproj", "{DCEAA9E2-D157-4AC2-B4C8-DDB26A6AD18C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mutex", "Mutex\Mutex.vcxproj", "{2589F435-D486-4BCC-9967-F4ECD216508D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RAII", "RAII\RAII.vcxproj", "{35AAC318-90AC-474F-A8D1-0090FA7ECF10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +31,14 @@ Global
 		{DCEAA9E2-D157-4AC2-B4C8-DDB26A6AD18C}.Debug|x86.Build.0 = Debug|Win32
 		{DCEAA9E2-D157-4AC2-B4C8-DDB26A6AD18C}.Release|x86.ActiveCfg = Release|Win32
 		{DCEAA9E2-D157-4AC2-B4C8-DDB26A6AD18C}.Release|x86.Build.0 = Release|Win32
+		{2589F435-D486-4BCC-9967-F4ECD216508D}.Debug|x86.ActiveCfg = Debug|Win32
+		{2589F435-D486-4BCC-9967-F4ECD216508D}.Debug|x86.Build.0 = Debug|Win32
+		{2589F435-D486-4BCC-9967-F4ECD216508D}.Release|x86.ActiveCfg = Release|Win32
+		{2589F435-D486-4BCC-9967-F4ECD216508D}.Release|x86.Build.0 = Release|Win32
+		{35AAC318-90AC-474F-A8D1-0090FA7ECF10}.Debug|x86.ActiveCfg = Debug|Win32
+		{35AAC318-90AC-474F-A8D1-0090FA7ECF10}.Debug|x86.Build.0 = Debug|Win32
+		{35AAC318-90AC-474F-A8D1-0090FA7ECF10}.Release|x86.ActiveCfg = Release|Win32
+		{35AAC318-90AC-474F-A8D1-0090FA7ECF10}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
